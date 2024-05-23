@@ -2,10 +2,11 @@
 
 ## 1. Introduction
 ## 2. Features
-## 3. BOM
-## 4. Assembly
-## 5. FAQ
-## 6. Credits
+## 3. Compatibility
+## 4. BOM
+## 5. Assembly
+## 6. FAQ
+## 7. Credits
 - djeZo888 for sponsoring and initial testings
 - Kizime123 for CAD design
 - LillianaMirrors for manuals (this GitHub repo)
