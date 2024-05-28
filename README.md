@@ -14,4 +14,6 @@
 Credits also go to:
 - VoronTAP designers
 - Boop designers
+- AndyABG
+- Solders
 - Vitalii
