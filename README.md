@@ -2,7 +2,7 @@
 
 ![MetalBoopRender](./imgs/render001.png)
 
-**Note: MetalBoop is going to be officially launched in Mid June 2024. It is an open source project - CAD files will be available for the public. This site is under construction - new content is added daily. BOM is already available as you may need to get certain items ahead such as MGW7C rail.**
+**Note: MetalBoop is going to be officially launched in _Mid June 2024_. It is an open source project - CAD files will be available for the public. This site is under construction - new content is added daily. BOM is already available as you may need to get certain items ahead such as MGW7C rail.**
 
 ## 1. Introduction
 
