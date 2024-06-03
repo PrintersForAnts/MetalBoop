@@ -2,8 +2,10 @@
 
 ![MetalBoopRender](./imgs/render001.png)
 
+**Note: MetalBoop is going to be officially launched in Mid June 2024. It is an open source project - CAD files will be available for the public. This site is under construction - new content is added daily. BOM is already available as you may need to get certain items ahead such as MGW7C rail.**
+
 ## 1. Introduction
-  
+
   A smaller metal version of plastic [Boop](https://github.com/PrintersForAnts/Boop).
 
   MetalBoop shares many of the same features as Boop and [Tap](https://github.com/VoronDesign/Voron-Tap/), such as:
