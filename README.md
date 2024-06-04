@@ -1,6 +1,7 @@
 # MetalBoop
 
-![MetalBoopRender](./imgs/render001.png)
+![MetalBoopRender](./imgs/MetalBoop_FinalRender_Both.png) 
+
 
 **Note: MetalBoop is going to be officially launched in _Mid June 2024_. It is an open source project - CAD files will be available for the public. This site is under construction - new content is added daily. BOM is already available as you may need to get certain items ahead such as MGW7C rail.**
 
@@ -43,6 +44,10 @@ Same as plastic [Boop](https://github.com/PrintersForAnts/Boop). Any Voron0 type
 | SHCS M3x5 | 1 |  |
 | Slim version of OptoTAP PCB (5V only) | 1 | (EU) [Lab4450](https://lab4450.com/product/voron-tap-probe/) (select OptoTap v1.3 5v with Omron SX-EE398)  <br>(NA) [Fabreeko](https://www.fabreeko.com/products/voron-tap-pcb?_pos=1&amp;amp;amp;amp;amp;amp;_psq=Tap&amp;amp;amp;amp;amp;amp;_ss=e&amp;amp;amp;amp;amp;amp;_v=1.0&amp;amp;amp;amp;amp;amp;variant=44462578368767) (select Voron TAP 5v)   |
 
+You will also need the CNC'd parts, which can be bought from [JLCPCB](https://jlcpcb.com/) or [PCBWAY](https://www.pcbway.com/)
+
+PCB Note: Although either PCB type can be mounted, the larger version of the Tap PCB may interfere with either the extruder or extruder stepper.
+
 
 ## 5. Assembly
 ## 6. FAQ
@@ -58,13 +63,13 @@ Same as plastic [Boop](https://github.com/PrintersForAnts/Boop). Any Voron0 type
 
 
 ## 7. Credits
-- djeZo888 for sponsoring and initial testings
-- Kizime123 for CAD design
-- LillianaMirrors for the manual
+- [djeZo888](https://github.com/djeZo888) for sponsoring and initial testings
+- [Kizime123](https://github.com/Kizime123) for CAD design
+- [LillianaMirrors](https://github.com/LillianaMirrors) for the manual / github page
 
 Credits also go to:
-- VoronTAP designers
-- Boop designers
-- AndyABG
+- [Voron TAP](https://github.com/VoronDesign/Voron-Tap/) designers
+- [Boop](https://github.com/PrintersForAnts/Boop) designers
+- [AndyABG](https://github.com/AndyABG)
 - Solders
-- Vitalii
+- [Vitalii](https://github.com/Vitalii3D-xyz)
