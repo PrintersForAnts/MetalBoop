@@ -2,10 +2,10 @@
 
 ![MetalBoopRender](./imgs/MetalBoop_FinalRender_Both.png) 
 
-
 **Note: MetalBoop is going to be officially launched in _Mid June 2024_. It is an open source project - CAD files will be available for the public. This site is under construction - new content is added daily. BOM is already available as you may need to get certain items ahead such as MGW7C rail.**
 
 **We are currently looking for beta testers. If you are interested, please read more in [discord channel here](https://discord.com/channels/825469421346226226/1222971771444006996/1248296621809205361).**
+
 
 ## 1. Introduction
 
@@ -27,9 +27,12 @@
 - Tested with DragonBurner v8 to ensure as much space as possible for hotend wiring.
 - Modified version of Vitaliis CNC tap belt attachments.
 - MetalBoop is shorter 10mm vertically - so no need to worry about build plate crashes.
+
+  
 ## 3. Compatibility
 
 Same as plastic [Boop](https://github.com/PrintersForAnts/Boop). Any Voron0 type toolhead compatible with front plate (eg. Mini StealthBurner). 100% compatible with Dragon Burner v8.
+
 
 ## 4. BOM
 
@@ -52,7 +55,12 @@ PCB note: Although either PCB type can be mounted, the larger version of the Tap
 
 Magnet note: To secure magnet, RTV Silicone is needed. Make sure you have it or get high quality, high temperature one.
 
+
 ## 5. Assembly
+
+Available after release together with CAD files.
+
+
 ## 6. FAQ
 
 1. When is it going to be available?
