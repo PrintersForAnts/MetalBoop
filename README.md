@@ -5,6 +5,8 @@
 
 **Note: MetalBoop is going to be officially launched in _Mid June 2024_. It is an open source project - CAD files will be available for the public. This site is under construction - new content is added daily. BOM is already available as you may need to get certain items ahead such as MGW7C rail.**
 
+**We are currently looking for beta testers. If you are interested, please read more in [discord channel here](https://discord.com/channels/825469421346226226/1222971771444006996/1248296621809205361).**
+
 ## 1. Introduction
 
   A smaller metal version of plastic [Boop](https://github.com/PrintersForAnts/Boop).
@@ -46,8 +48,9 @@ Same as plastic [Boop](https://github.com/PrintersForAnts/Boop). Any Voron0 type
 
 You will also need the CNC'd parts, which can be bought from [JLCPCB](https://jlcpcb.com/) or [PCBWAY](https://www.pcbway.com/)
 
-PCB Note: Although either PCB type can be mounted, the larger version of the Tap PCB may interfere with either the extruder or extruder stepper.
+PCB note: Although either PCB type can be mounted, the larger version of the Tap PCB may interfere with either the extruder or extruder stepper.
 
+Magnet note: To secure magnet, RTV Silicone is needed. Make sure you have it or get high quality, high temperature one.
 
 ## 5. Assembly
 ## 6. FAQ
