@@ -39,7 +39,7 @@ Same as plastic [Boop](https://github.com/PrintersForAnts/Boop). Any Voron0 type
 | Part | Quantity | Links |
 |---|---|---|
 | Rail STW7C 40mm Z2 preload 5mm edge-to-hole  | 1 | [Aliexpress](https://www.aliexpress.com/item/1005001499370117.html) |
-| Magnet B842SH  | 1 | [Kj Magnetics](https://www.kjmagnetics.com/proddetail.asp?prod=B842SH) |
+| Magnet B842SH  | 1 | (NA) [Kj Magnetics](https://www.kjmagnetics.com/proddetail.asp?prod=B842SH) <br>(EU) [Replimat](https://www.replimat.eu/metalboop-magnet-b842sh/rt10176) |
 | M3 10mm spacer  | 2 | [Aliexpress](https://www.aliexpress.com/item/1005003018651855.html) |
 | (optional) 2x Makerbeam T-slot - (drilled out to 3mm) | 2 | [Aliexpress](https://www.aliexpress.com/item/1005004891815148.html) |
 | (optional) BHCS/SHCS M3x5 | 2 |  |
