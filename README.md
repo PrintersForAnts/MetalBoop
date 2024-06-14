@@ -2,9 +2,7 @@
 
 ![MetalBoopRender](./imgs/MetalBoop_FinalRender_Both.png) 
 
-**Note: MetalBoop is going to be officially launched in _mid-late June 2024_. It is an open source project - CAD files will be available for the public. This site is under construction - new content is added daily. BOM is already available as you may need to get certain items ahead such as MGW7C rail.**
-
-**We are currently looking for beta testers. If you are interested, please read more in [discord channel here](https://discord.com/channels/825469421346226226/1222971771444006996/1248296621809205361).**
+**Note: Unfortunately, we did some further improvements in design to reduce CNC costs, therefore MetalBoop is going to be officially launched in _early July 2024_ as we have to perform one more internal testing iteration. It is an open source project - CAD files will be available for the public. This site is under construction - new content is added daily. BOM is already available as you may need to get certain items ahead such as MGW7C rail.**
 
 
 ## 1. Introduction
@@ -61,7 +59,7 @@ Available after release together with CAD files.
 ## 6. FAQ
 
 1. When is it going to be available?
-  * As soon as we finish internal testing. If everything goes by the plan we have and there are no major issues, **you can expect it to be available in around mid-late June 2024**.
+  * As soon as we finish internal testing. If everything goes by the plan we have and there are no major issues, **you can expect it to be available in around early July 2024**.
         
 2. What else besides the BOM do I need?
   * Unfortunately, from the start, we expect that for the first few weeks or months, you will also have to get parts manufactured on your own. There are online services such as [JLCPCB](https://jlcpcb.com/) or [PCBWAY](https://www.pcbway.com/) which can make the parts. After some time, we hope vendors will pick up the design and make kits with already manufactured metal parts so you won’t have to do anything but buy a kit and assemble it.
