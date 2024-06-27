@@ -14,6 +14,7 @@
   * Durability due to optical switch
   * Simplicity - no dock and undock macros to fiddle with
   * Zero probe distance
+  * Max chamber temperature: 100 C (when using OPB666N)
 
 
 ## 2. Features
@@ -83,8 +84,8 @@ Available after release together with CAD files.
 
 
 ## 7. Credits
-- [djeZo888](https://github.com/djeZo888) for sponsoring and initial testings
 - [Kizime123](https://github.com/Kizime123) for CAD design
+- [djeZo888](https://github.com/djeZo888) for sponsoring and initial testings
 - [LillianaMirrors](https://github.com/LillianaMirrors) for the manual / github page
 
 Credits also go to:
