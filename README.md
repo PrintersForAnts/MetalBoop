@@ -58,6 +58,8 @@ As assembly manuals are not complete yet, we are providing instructions on the g
 
 [Here are some short descriptions regarding use of printed jigs to help with correct assembly.](https://github.com/PrintersForAnts/MetalBoop/tree/main/STL/jigs)
 
+[If you are not using sensorless homing but rather endstop switches, please check out this page.](https://github.com/PrintersForAnts/MetalBoop/tree/main/STL)
+
 ## 6. FAQ
 
 1. When is it going to be available?
