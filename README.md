@@ -56,7 +56,7 @@ Same as plastic [Boop](https://github.com/PrintersForAnts/Boop). Any Voron0 type
 
 As assembly manuals are not complete yet, we are providing instructions on the go as needed.
 
-[Here are some short descriptions regarding use of printed jigs to help with correct assembly.](https://github.com/PrintersForAnts/MetalBoop/STL/jigs)
+[Here are some short descriptions regarding use of printed jigs to help with correct assembly.](https://github.com/PrintersForAnts/MetalBoop/tree/main/STL/jigs)
 
 ## 6. FAQ
 
