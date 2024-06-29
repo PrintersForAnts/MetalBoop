@@ -10,11 +10,15 @@ Parts in this folder should be printed prior starting with assembly of MetalBoop
 
 ![Magnet-RTV-Coat](../../imgs/assembly/magnet_rtv_coat.png)
 
-First coat two sides of magnet that touch insides of hole with thin layer of RTV (check image above - two RTV coated sides are colored in red). Carefully insert magnet into the hole and try to position it in the middle. Then put the jig on the top and secure it with two M3 screws to nearby M3 holes (any short M3 screws are OK to be used). Leave this built assembly for 24h so RTV can cure. After 24h unscrew M3 screws and remove the jig. Verify that the magnet is properly installed in the hole and cannot move. If there is any RTV residue left on the bottom side of the magnet, you have to scrape that off, otherwise it will interfere with magnet's ability to touch top of the MGW7 rail with whole surface.
+Using flat surface tool such as credit card **evenly** coat two sides of magnet that touch insides of hole with **thin** layer of RTV (check image above - two RTV coated sides are colored in red). Carefully insert magnet into the hole and try to position it in the middle. Then put the jig on the top and secure it with two M3 screws to nearby M3 holes (any short M3 screws are OK to be used). Leave this built assembly for 24h so RTV can cure.
 
 _You can use hole in the middle of the jig and small hole in front aluminum part to poke magnet with non-magnetic stick to make sure it doesn't move around. If it does, then reprint jig scaled down for few 0.1% dimensions or properly tune your 3D printer._
 
 ![Magnet-Jig](../../imgs/assembly/magnet_jig.png)
+
+After 24h unscrew M3 screws and remove the jig. Verify that the magnet is properly installed in the hole and cannot move (as in the picture below). If there is any RTV residue left on the bottom side of the magnet, you have to scrape that off, otherwise it will interfere with magnet's ability to touch top of the MGW7 rail with whole surface. 
+
+![Magnet-Assembled](../../imgs/assembly/magnet_assembled.jpeg)
 
 ---
 
