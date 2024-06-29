@@ -1,6 +1,22 @@
 Parts in this folder should be printed prior starting with assembly of MetalBoop.
 
-**endstop_holder_x1.stl** is plastic part that you have to print and attach to the back side of base plate when you are not using sensorless homing. Print it with material that can sustain chamber temps you'll use when printing, eg. same material as for other printer parts that are inside chamber (such as ABS, ASA,...). Use Voron recommended slicer settings.
+---
+
+### Assembly helper parts - jigs
+
+[More information is available here.](https://github.com/PrintersForAnts/MetalBoop/tree/main/STL/jigs)
+
+---
+
+### Sensorless XY Homing
+
+No additional assembly is required.
+
+---
+
+### XY Homing using endstops
+
+[**endstop_holder_x1.stl**](./endstop_holder_x1.stl) is plastic part that you have to print and attach to the back side of base plate when you are not using sensorless homing. Print it with material that can sustain chamber temps you'll use when printing, eg. same material as for other printer parts that are inside chamber (such as ABS, ASA,...). Use Voron recommended slicer settings.
 
 ![Endstop-Mount](../imgs/assembly/endstop_mount.png)
 
