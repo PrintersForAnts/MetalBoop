@@ -6,7 +6,7 @@ Parts in this folder should be printed prior starting with assembly of MetalBoop
 
 **It is recommended to perform this assembly task first because 24 hours is needed for RTV to cure.**
 
-[**jig_magnet_x1.stl**](./jig_magnet_x1.stl) is used to help you with installation of magnet into oval hole. It makes sure that magnet sits in the middle of the hole and is in fully horizontal position. Print this jig using PLA or PETG with high details (recommended 0.4mm nozzle with 0.1mm layer height). 
+[**jig_magnet_x1.stl**](./jig_magnet_x1.stl) is used to help you with installation of magnet into oval hole. It makes sure that magnet sits in the middle of the hole and is in fully horizontal position. Print this jig using PLA or PETG with high details (recommended 0.4mm nozzle, Voron recommended slicer settings but with 0.1mm layer height).
 
 First coat two sides of magnet that touch insides of hole with thin layer of RTV. Carefully insert magnet into the hole and try to position it in the middle. Then put the jig on the top and secure it with two M3 screws to nearby M3 holes (any short M3 screws are OK to be used). Leave this built assembly for 24h so RTV can cure. After 24h unscrew M3 screws and remove the jig. Verify that the magnet is properly installed in the hole and cannot move. If there is any RTV residue left on the bottom side of the magnet, you have to scrape that off, otherwise it will interfere with magnet's ability to touch top of the MGW7 rail with whole surface.
 
