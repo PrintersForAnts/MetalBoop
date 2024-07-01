@@ -2,7 +2,7 @@
 
 ![MetalBoopRender](./imgs/MetalBoop_FinalRender_Both.png) 
 
-**Note: Unfortunately, we did some further improvements in design to reduce CNC costs, therefore MetalBoop is going to be officially launched in _early July 2024_ as we have to perform one more internal testing iteration. It is an open source project - CAD files will be available for the public. This site is under construction - new content is added daily. BOM is already available as you may need to get certain items ahead such as MGW7C rail.**
+**Note: MetalBoop is going to be officially launched in _early July 2024_ as beta RC1 - first beta version. There are also five beta testers that are about to receive kits (within one week) for free and will shortly get more information from them regarding beta RC1. MetalBoop is an open source project - CAD files will be available for the public. This site is under construction - new content is added daily. BOM is already available as you may need to get certain items ahead such as MGW7C rail.**
 
 
 ## 1. Introduction
@@ -38,6 +38,8 @@ Same as plastic [Boop](https://github.com/PrintersForAnts/Boop). Any Voron0 type
 
 | Part | Quantity | Links | Note
 |---|---|---|---|
+| CNC parts (2-part version) | 1 | [PCBWay](https://www.pcbway.com/project/shareproject/MetalBoop_2p_beta_RC1_de9ac2f4.html) | Order this if **you are NOT** using Dragon Burner V8 but any other Voron0 compatible toolhead such as mini StealthBurner. You need to order two parts - base plate and front plate! *
+| CNC parts (2-part version for DBv8) | 1 | [PCBWay](https://www.pcbway.com/project/shareproject/Metal_Boop_DBv8_2p_beta_RC1_88e154ac.html) | Order this if **you are** using Dragon Burner V8. You need to order two parts - base plate and front plate! *
 | Rail MGW7C/STW7C 40mm | 1 | [Aliexpress](https://www.aliexpress.com/item/1005001499370117.html) | Z2 preload 5mm edge-to-hole
 | Magnet B842SH  | 1 | (NA) [Kj Magnetics](https://www.kjmagnetics.com/proddetail.asp?prod=B842SH) <br>(EU) [Replimat](https://www.replimat.eu/metalboop-magnet-b842sh/rt10176) | To secure magnet, RTV Silicone is needed. Make sure you have it or get high quality one.
 | M3 10mm spacer  | 2 | [Aliexpress](https://www.aliexpress.com/item/1005003018651855.html) | Only needed if using 3-part version of MetalBoop
@@ -51,6 +53,8 @@ Same as plastic [Boop](https://github.com/PrintersForAnts/Boop). Any Voron0 type
 | SHCS M3x5 | 1 |  | Used to mount bottom part of MGW7 rail
 | Slim version of OptoTAP PCB (5V only) | 1 | (EU) [Lab4450](https://lab4450.com/product/voron-tap-probe/) (select OptoTap v1.3 5v with Omron SX-EE398)  <br>(NA) [Fabreeko](https://www.fabreeko.com/products/voron-tap-pcb?_pos=1&amp;amp;amp;amp;amp;amp;_psq=Tap&amp;amp;amp;amp;amp;amp;_ss=e&amp;amp;amp;amp;amp;amp;_v=1.0&amp;amp;amp;amp;amp;amp;variant=44462578368767) (select Voron TAP 5v) | Although either PCB type can be mounted, the larger version of the Tap PCB may interfere with either the extruder or extruder stepper.
 
+_* Current publicly available version is beta RC1 which is not rigorously tested by many users yet. Use at your own risk!_
+
 
 ## 5. Assembly
 
@@ -63,7 +67,7 @@ As assembly manuals are not complete yet, we are providing instructions on the g
 ## 6. FAQ
 
 1. When is it going to be available?
-  * As soon as we finish internal testing. If everything goes by the plan we have and there are no major issues, **you can expect it to be available in around early July 2024**.
+  * MetalBoop has enterer punblic beta RC1 phase - **you can expect CAD files it to be available in full any day now**.
         
 2. What else besides the BOM do I need?
   * Unfortunately, from the start, we expect that for the first few weeks or months, you will also have to get parts manufactured on your own. There are online services such as [JLCPCB](https://jlcpcb.com/) or [PCBWAY](https://www.pcbway.com/) which can make the parts. After some time, we hope vendors will pick up the design and make kits with already manufactured metal parts so you won’t have to do anything but buy a kit and assemble it.
@@ -84,6 +88,9 @@ As assembly manuals are not complete yet, we are providing instructions on the g
         
 6. I would like to sell manufactured metal parts. Can I do that free of charge or do I have to ask your permission or pay for license, royalties, etc?
   * MetalBoop is completely open source, released under MIT license. You can freely use designs for your commercial purposes free of charge.
+
+7. I am part of public beta testing and I am stuck with assembly, because manuals are not available yet. What should I do?
+  * Get in contact with me or any other member of the team and ask for help. While also providing help to you, we will do our best to also update currently developed manuals on Github under [this page](https://github.com/PrintersForAnts/MetalBoop/tree/main/STL). You can get in contact with us by opening issue in this GitHub repository or contact us in [Discord #CNC_boop channel](https://discord.com/channels/825469421346226226/1222971771444006996).
 
 
 ## 7. Credits
