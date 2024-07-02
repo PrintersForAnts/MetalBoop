@@ -53,7 +53,7 @@ Same as plastic [Boop](https://github.com/PrintersForAnts/Boop). Any Voron0 type
 | SHCS M3x5 | 1 |  | Used to mount bottom part of MGW7 rail
 | Slim version of OptoTAP PCB (5V only) | 1 | (EU) [Lab4450](https://lab4450.com/product/voron-tap-probe/) (select OptoTap v1.3 5v with Omron SX-EE398)  <br>(NA) [Fabreeko](https://www.fabreeko.com/products/voron-tap-pcb?_pos=1&amp;amp;amp;amp;amp;amp;_psq=Tap&amp;amp;amp;amp;amp;amp;_ss=e&amp;amp;amp;amp;amp;amp;_v=1.0&amp;amp;amp;amp;amp;amp;variant=44462578368767) (select Voron TAP 5v) | Although either PCB type can be mounted, the larger version of the Tap PCB may interfere with either the extruder or extruder stepper.
 
-_* Current publicly available version is beta RC1 which is not rigorously tested by many users yet. Use at your own risk!_
+_* Current latest available version is beta RC1 which is not rigorously tested by many users yet. Use at your own risk!_
 
 
 ## 5. Assembly
@@ -67,7 +67,7 @@ As assembly manuals are not complete yet, we are providing instructions on the g
 ## 6. FAQ
 
 1. When is it going to be available?
-  * MetalBoop has enterer punblic beta RC1 phase - **you can expect CAD files it to be available in full any day now**.
+  * MetalBoop has entered public beta RC1 phase - **you can expect CAD files to be available in full any day now**.
         
 2. What else besides the BOM do I need?
   * Unfortunately, from the start, we expect that for the first few weeks or months, you will also have to get parts manufactured on your own. There are online services such as [JLCPCB](https://jlcpcb.com/) or [PCBWAY](https://www.pcbway.com/) which can make the parts. After some time, we hope vendors will pick up the design and make kits with already manufactured metal parts so you won’t have to do anything but buy a kit and assemble it.
