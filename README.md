@@ -4,6 +4,21 @@
 
 **Note: MetalBoop has been released as beta RC1 - first beta version. There are also five beta testers that are currently receiving, assembling and testing kits for free and will shortly get more information from them regarding beta RC1 - so far, the results are great and comparison charts vs plastic Boop will be posted soon. MetalBoop is an open source project - CAD files are available for the public [here](./CAD).**
 
+---
+
+### Index
+1. [Introduction](#1-introduction)
+2. [Features](#2-features)
+3. [Compatibility](#3-compatibility)
+4. [BOM](#4-bom)
+5. [Assembly](#5-assembly)
+6. [FAQ](#6-faq)
+7. [Beta issues/changelog](#7-beta-issueschangelog)
+8. [Contact](#8-contact)
+9. [Credits](#9-credits)
+
+---
+
 
 ## 1. Introduction
 
