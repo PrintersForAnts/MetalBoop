@@ -88,13 +88,16 @@ Base plate is secured to X rail cart using **4x FHCS M3x5mm**. You have to do th
 
 #### D) Sensor
 
-How to mount optotap sensor PCB depends whether you have 2-part or 3-part MetalBoop.
+How to mount optotap sensor PCB depends whether you have 2-part or 3-part MetalBoop. **Note if using OPB666N sensor, you may have to add 0.5mm shim in between standoffs/spacers and PCB, as OPB666N is a bit larger and would not fit otherwise.**
 
 ##### 2-part MetalBoop
 
 ![MetalBoopSensor2Part](./imgs/assembly/sensor_2part.png) 
 
 ##### 3-part MetalBoop
+
+![MetalBoopSensor3Part](./imgs/assembly/sensor_3part.png)
+
 
 #### E) Finish
 
