@@ -16,6 +16,8 @@
   * Zero probe distance
   * Max chamber temperature: 100 C (when using OPB666N)
 
+Input shaper improvement charts are available [here](./results).
+
 
 ## 2. Features
 - Higher rigidity due to use of metals instead of plastic.
