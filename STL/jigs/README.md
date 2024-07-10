@@ -1,10 +1,10 @@
-Parts in this folder should be printed prior starting with assembly of MetalBoop.
-
----
+> [!TIP]
+> Parts in this folder should be printed prior starting with assembly of MetalBoop.
 
 ### Assembly of magnet
 
-**It is recommended to perform this assembly task first because 24 hours is needed for RTV to cure.**
+> [!TIP]
+> **It is recommended to perform this assembly task first because 24 hours is needed for RTV to cure.**
 
 [**jig_magnet_x1.stl**](./jig_magnet_x1.stl) is used to help you with installation of magnet into oval hole. It makes sure that magnet sits in the middle of the hole and is in fully horizontal position. Print this jig using PLA or PETG with high details (recommended 0.4mm nozzle, Voron recommended slicer settings but with 0.1mm layer height).
 
@@ -12,7 +12,8 @@ Parts in this folder should be printed prior starting with assembly of MetalBoop
 
 Using flat surface tool such as credit card **evenly** coat two sides of magnet that touch insides of hole with **thin** layer of RTV (check image above - two RTV coated sides are colored in red). Carefully insert magnet into the hole and try to position it in the middle. Then put the jig on the top and secure it with two M3 screws to nearby M3 holes (any short M3 screws are OK to be used). Leave this built assembly for 24h so RTV can cure.
 
-_You can use hole in the middle of the jig and small hole in front aluminum part to poke magnet with non-magnetic stick to make sure it doesn't move around. If it does, then reprint jig scaled down for few 0.1% dimensions or properly tune your 3D printer._
+> [!TIP]
+> You can use hole in the middle of the jig and small hole in front aluminum part to poke magnet with non-magnetic stick to make sure it doesn't move around. If it does, then reprint jig scaled down for few 0.1% dimensions or properly tune your 3D printer.
 
 ![Magnet-Jig](../../imgs/assembly/magnet_jig.png)
 
@@ -32,6 +33,3 @@ Use **SHCS M3x4mm** to secure upper part of the rail and **SHCS M3x5mm** to secu
 
 ![Rail-Jig](../../imgs/assembly/rail_jig.png)
 
----
-
-Detailed instructions on how to use printed jigs will be available soon with upcoming manuals.
