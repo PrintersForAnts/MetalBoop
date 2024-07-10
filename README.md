@@ -60,7 +60,7 @@ _* Current latest available version is beta RC1 which is not rigorously tested b
 
 ## 5. Assembly
 
-_As assembly manuals are not complete yet, we are providing instructions on the go as needed._
+_Please, contact us if assembly manuals are unclear, so we can improve them. Thank you!_
 
 ![MetalBoopNames](./imgs/assembly/part_names.jpeg)   
 
@@ -72,7 +72,7 @@ Start by assembling magnet into the hole as this task takes 24h for RTV to cure.
 
 #### B) Belts
 
-Next attach base plate to X rail cart together with belts as shown in the picture provided by Vitalii (**Vitalii's belt mount**).
+Next attach base plate to X rail cart together with belts as shown in the picture provided by Vitalii (**Vitalii's belt mount**). Make sure that both belts are of equal lengths!
 
 ![MetalBoopBelts](./imgs/assembly/belts.jpeg) 
 
@@ -83,6 +83,7 @@ Base plate is secured to X rail cart using **4x FHCS M3x5mm**. You have to do th
 
 #### C) MGW7 rail
 
+Slide MGW7C cart off rail onto plastic jig that was supplied with the rail and save it. You do not have to clean/grease this rail.
 [Detailed instructions regarding assembly of MGW7 is here.](https://github.com/PrintersForAnts/MetalBoop/tree/main/STL/jigs#assembly-of-mgw7-rail)
 
 
@@ -101,7 +102,9 @@ How to mount optotap sensor PCB depends whether you have 2-part or 3-part MetalB
 
 #### E) Finish
 
-TODO
+Slide MGW7C cart back onto MGW7 rail from below and make sure that the cart doesn't slide off before you complete next step. Carefully bring assembled front plate near assembled base plate. When front plate is very close to base plate, magnet's force will position front plate. Adjust position of MGW7C cart so that four mounting holes on cart align with front plate holes. Use **4x FHCS M3x5mm** screws to attach front plate to the cart. 
+
+It is recommended to test MetalBoop before you continue with mounting toolhead. If boop'ing doesn't work correctly, then the issue is most likely in vertical position of sensor. You can adjust that by moving MGW7 rail slightly down and retightening its mounting screws ([make sure to use jigs - clamps](https://github.com/PrintersForAnts/MetalBoop/tree/main/STL/jigs#assembly-of-mgw7-rail)).
 
 
 #### F) Misc
