@@ -88,8 +88,13 @@ Base plate is secured to X rail cart using **4x FHCS M3x5mm**. You have to do th
 
 #### D) Sensor
 
-TODO
+How to mount optotap sensor PCB depends whether you have 2-part or 3-part MetalBoop.
 
+##### 2-part MetalBoop
+
+![MetalBoopSensor2Part](./imgs/assembly/sensor_2part.png) 
+
+##### 3-part MetalBoop
 
 #### E) Finish
 
@@ -114,9 +119,11 @@ TODO
     * base plate (screws into X rail cart and to which belts are attached),
     * front plate (screws into Boop's vertical MGW7 rail and toolhead) and
     * top plate (screws into front plate and where optical sensor PCB attaches to).
+      
     ![MetalBoopNames](./imgs/assembly/part_names.jpeg)
     
 This configuration is called 3-part MetalBoop and is cheaper for CNC production. 2-part MetalBoop is optimisation to further increase rigidity by merging front and top plates together. But while more efficient and also easier to assemble, it can be 5-20 $ more expensive to produce. Both versions are available and the choice which one to get and assemble is yours.
+
 ![MetalBoopDifference](./imgs/2part-3part-diff.png)   
 
 4. How much downforce is there?
