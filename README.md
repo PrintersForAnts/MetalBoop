@@ -10,13 +10,14 @@
   A smaller metal version of plastic [Boop](https://github.com/PrintersForAnts/Boop).
 
   MetalBoop shares many of the same features as Boop and [Tap](https://github.com/VoronDesign/Voron-Tap/), such as:
-  * Microstep level accuracy
-  * Durability due to optical switch
-  * Simplicity - no dock and undock macros to fiddle with
-  * Zero probe distance
-  * Max chamber temperature: 100 C (when using OPB666N)
+  * Microstep level accuracy.
+  * Durability due to optical switch.
+  * Simplicity - no dock and undock macros to fiddle with.
+  * Zero probe distance.
+  * Max chamber temperature: 100 C (when using OPB666N).
 
-Input shaper improvement charts are available [here](./results).
+> [!NOTE]
+> Input shaper improvement charts are available [here](./results).
 
 
 ## 2. Features
@@ -30,7 +31,10 @@ Input shaper improvement charts are available [here](./results).
 - MetalBoop is shorter 10mm vertically - so no need to worry about build plate crashes.
 - Simplified assembly using printed mounting jigs for MGW7 rail and magnet.
 
-  
+> [!WARNING]
+> Unfortunately, MetalBoop does not bring only improvements. Due to increased rigidity between parts (magnet coupling), there is substantially more force needed to decouple Front plate. This means that nozzle presses against bed with much higher force and consequently can damage certain weak printpad surfaces. When deciding whether to use MetalBoop, you should consider this important fact.
+
+
 ## 3. Compatibility
 
 Same as plastic [Boop](https://github.com/PrintersForAnts/Boop). Any Voron0 type toolhead compatible with front plate (eg. Mini StealthBurner). 100% compatible with [Dragon Burner v8 - DBv8](https://github.com/chirpy2605/voron/tree/main/V0/Dragon_Burner). All Hotends* and all Extruders are supported.
@@ -42,8 +46,8 @@ _* As reported by one beta tester, if using Dragon hotend then silicone sock nee
 
 | Part | Quantity | Links | Note
 |---|---|---|---|
-| CNC parts (2-part version) | 1 | [Open source CNC](./CAD/CNC) or [PCBWay](https://www.pcbway.com/project/shareproject/MetalBoop_2p_beta_RC1_de9ac2f4.html) | Order this if **you are NOT** using Dragon Burner V8 but any other Voron0 compatible toolhead such as mini StealthBurner. You need to order two parts - base plate and front plate! *
-| CNC parts (2-part version for DBv8) | 1 | [Open source CNC](./CAD/CNC) or [PCBWay](https://www.pcbway.com/project/shareproject/Metal_Boop_DBv8_2p_beta_RC1_88e154ac.html) | Order this if **you are** using Dragon Burner V8. You need to order two parts - base plate and front plate! *
+| CNC parts (2-part version) | 1 | [Open source CNC](./CAD/CNC) or [PCBWay](https://www.pcbway.com/project/shareproject/MetalBoop_2p_beta_RC1_de9ac2f4.html) | Order this if **you are NOT** using Dragon Burner V8 but any other Voron0 compatible toolhead such as mini StealthBurner. You need to order two parts - base plate and front plate!
+| CNC parts (2-part version for DBv8) | 1 | [Open source CNC](./CAD/CNC) or [PCBWay](https://www.pcbway.com/project/shareproject/Metal_Boop_DBv8_2p_beta_RC1_88e154ac.html) | Order this if **you are** using Dragon Burner V8. You need to order two parts - base plate and front plate!
 | Rail MGW7C/STW7C 40mm | 1 | [Aliexpress](https://www.aliexpress.com/item/1005001499370117.html) | Z2 (medium) preload, 5mm edge-to-hole
 | Magnet B842SH  | 1 | (NA) [Kj Magnetics](https://www.kjmagnetics.com/proddetail.asp?prod=B842SH) <br>(EU) [Replimat](https://www.replimat.eu/metalboop-magnet-b842sh/rt10176) | To secure magnet, RTV Silicone is needed. Make sure you have it or get high quality one.
 | M3 10mm spacer  | 2 | [Aliexpress](https://www.aliexpress.com/item/1005003018651855.html) | Only needed if using 3-part version of MetalBoop
@@ -57,14 +61,17 @@ _* As reported by one beta tester, if using Dragon hotend then silicone sock nee
 | SHCS M3x5 | 1/3/5 |  | Used to mount bottom part of MGW7 rail; get extra 2pcs if not using sensorless homing; get extra 2pcs if using DragonBurner V8
 | Slim version of OptoTAP PCB (5V only) | 1 | (EU) [Lab4450](https://lab4450.com/product/voron-tap-probe/) (select OptoTap v1.3 5v with Omron SX-EE398)  <br>(NA) [Fabreeko](https://www.fabreeko.com/products/voron-tap-pcb?_pos=1&amp;amp;amp;amp;amp;amp;_psq=Tap&amp;amp;amp;amp;amp;amp;_ss=e&amp;amp;amp;amp;amp;amp;_v=1.0&amp;amp;amp;amp;amp;amp;variant=44462578368767) (select Voron TAP 5v) | Although either PCB type can be mounted, the larger version of the Tap PCB may interfere with either the extruder or extruder stepper.
 
-_* Current latest available version is beta RC1 which is not rigorously tested by many users yet. Use at your own risk!_
+> [!IMPORTANT]
+> Current latest available version is beta RC1 which is not rigorously tested by many users yet. Use at your own risk!
 
 
 ## 5. Assembly
 
-_Please, contact us if assembly manuals are unclear, so we can improve them. Thank you!_
+> [!NOTE]
+> Please, contact us if assembly manuals are unclear, so we can improve them. Thank you!
 
-_You can always check out [CAD design file](./CAD) to see how parts fit together._
+> [!TIP]
+> You can always check out [CAD design file](./CAD) to see how parts fit together.
 
 ![MetalBoopNames](./imgs/assembly/part_names.jpeg)   
 
@@ -118,13 +125,13 @@ It is recommended to test MetalBoop before you continue with mounting toolhead. 
 
 ## 6. FAQ
 
-1. When is it going to be available?
+1. <ins>When is it going to be available?</ins>
   * MetalBoop has entered public beta RC1 phase. Note that this is public beta and there may be some small issues here and there. We are doing our best to list all found issues [here](#7-beta-issueschangelog).
         
-2. What else besides the BOM do I need?
+2. <ins>What else besides the BOM do I need?</ins>
   * Unfortunately, from the start, we expect that for the first few weeks or months, you will also have to get parts manufactured on your own. CNC design files are available [here](./CAD/CNC). There are online services such as [JLCPCB](https://jlcpcb.com/) or [PCBWAY](https://www.pcbway.com/) which can make the parts. After some time, we hope vendors will pick up the design and make kits with already manufactured metal parts so you won’t have to do anything but buy a kit and assemble it.
 
-3. What is the difference between 2-part and 3-part MetalBoop?
+3. <ins>What is the difference between 2-part and 3-part MetalBoop?</ins>
   * Boop usually consists of 3 main metal parts; those are:
     * base plate (screws into X rail cart and to which belts are attached),
     * front plate (screws into Boop's vertical MGW7 rail and toolhead) and
@@ -136,30 +143,30 @@ This configuration is called 3-part MetalBoop and is cheaper for CNC production.
 
 ![MetalBoopDifference](./imgs/2part-3part-diff.png)   
 
-4. How much downforce is there?
+4. <ins>How much downforce is there?</ins>
   * While for Voron Tap is being said that it needs 600g of force to uncouple, we measured MetalBoop needs around 1500g! This means that it is way more rigidly coupled than Tap, which should improve your input shaper charts and allows you to print with higher accelerations while maintaining same level of print quality. Note that more downforce is not always better - higher force can damage your printpad, so be aware of that when choosing MetalBoop. We recommend using textured PEI plate, invar plate or any other plate that has strong surface.
 
-5. Is it mandatory to use T-nuts and M3 screws to attach belts?
+5. <ins>Is it mandatory to use T-nuts and M3 screws to attach belts?</ins>
   * While for plastic Boop, simply hooking belts between rail and plastic part turned out not to be enough, when using aluminum parts, this is not the case. Using additional T-nuts and screws is therefore completely optional thus redundant. 
         
-6. I would like to sell manufactured metal parts. Can I do that free of charge or do I have to ask your permission or pay for license, royalties, etc?
+6. <ins>I would like to sell manufactured metal parts. Can I do that free of charge or do I have to ask your permission or pay for license, royalties, etc?</ins>
   * MetalBoop is completely open source, released under GPLv3 license. You can freely use designs for your commercial purposes free of charge.
 
-7. I am stuck with assembly/I do not understand assembly process. What should I do?
+7. <ins>I am stuck with assembly/I do not understand assembly process. What should I do?</ins>
   * Get in contact with me or any other member of the team and ask for help. While also providing help to you, we will do our best to also update currently developed manuals on Github under [Assembly topic](#5-assembly). You can get in contact with us by opening issue in this GitHub repository or contact us in [Discord #CNC_boop channel](https://discord.com/channels/825469421346226226/1222971771444006996).
 
 
 ## 7. Beta issues/changelog
-- Dragon hotend: small part of silicone sock needs to be cut for MetalBoop to fully fit
+- Dragon hotend: small part of silicone sock needs to be cut for MetalBoop to fully fit.
 
 
 ## 8. Credits
-- [Kizime123](https://github.com/Kizime123) for CAD design
-- [djeZo888](https://github.com/djeZo888) for sponsoring, GitHub page and initial testings
+- [Kizime123](https://github.com/Kizime123) for CAD design and
+- [djeZo888](https://github.com/djeZo888) for sponsoring, GitHub page and initial testings.
 
 Credits also go to:
-- [Voron TAP](https://github.com/VoronDesign/Voron-Tap/) designers
-- [Boop](https://github.com/PrintersForAnts/Boop) designers
-- [AndyABG](https://github.com/AndyABG)
-- Solders
-- [Vitalii](https://github.com/Vitalii3D-xyz)
+- [Voron TAP](https://github.com/VoronDesign/Voron-Tap/) designers,
+- [Boop](https://github.com/PrintersForAnts/Boop) designers,
+- [AndyABG](https://github.com/AndyABG),
+- [Vitalii](https://github.com/Vitalii3D-xyz),
+- Solders.
