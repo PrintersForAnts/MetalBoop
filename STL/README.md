@@ -1,4 +1,5 @@
-Parts in this folder should be printed prior starting with assembly of MetalBoop.
+> [!TIP]
+> Parts in this folder should be printed prior starting with assembly of MetalBoop.
 
 ---
 
@@ -20,6 +21,4 @@ No additional assembly is required.
 
 ![Endstop-Mount](../imgs/assembly/endstop_mount.png)
 
-Plastic part is attached to the base plate using two M3x5mm screws (**do not use longer than 5mm**, because there is not enough space!). Endstop switch is attached to the plastic part using one M2x10mm self-tapping screw.
-
-Detailed instructions will be available soon with upcoming manuals.
+Plastic part is attached to the base plate using **two SHCS M3x5mm screws** (**do not use longer than 5mm**, because there is not enough space!). Endstop switch is attached to the plastic part using **one M2x10mm self-tapping screw**.
