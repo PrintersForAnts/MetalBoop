@@ -31,7 +31,7 @@
   
 ## 3. Compatibility
 
-Same as plastic [Boop](https://github.com/PrintersForAnts/Boop). Any Voron0 type toolhead compatible with front plate (eg. Mini StealthBurner). 100% compatible with Dragon Burner v8. All of Hotends* and all Extruders are supported.
+Same as plastic [Boop](https://github.com/PrintersForAnts/Boop). Any Voron0 type toolhead compatible with front plate (eg. Mini StealthBurner). 100% compatible with [Dragon Burner v8 - DBv8](https://github.com/chirpy2605/voron/tree/main/V0/Dragon_Burner). All Hotends* and all Extruders are supported.
 
 _* As reported by one beta tester, if using Dragon hotend then silicone sock needs to be cut a bit for everything to fit together properly._
 
@@ -42,7 +42,7 @@ _* As reported by one beta tester, if using Dragon hotend then silicone sock nee
 |---|---|---|---|
 | CNC parts (2-part version) | 1 | [PCBWay](https://www.pcbway.com/project/shareproject/MetalBoop_2p_beta_RC1_de9ac2f4.html) | Order this if **you are NOT** using Dragon Burner V8 but any other Voron0 compatible toolhead such as mini StealthBurner. You need to order two parts - base plate and front plate! *
 | CNC parts (2-part version for DBv8) | 1 | [PCBWay](https://www.pcbway.com/project/shareproject/Metal_Boop_DBv8_2p_beta_RC1_88e154ac.html) | Order this if **you are** using Dragon Burner V8. You need to order two parts - base plate and front plate! *
-| Rail MGW7C/STW7C 40mm | 1 | [Aliexpress](https://www.aliexpress.com/item/1005001499370117.html) | Z2 preload 5mm edge-to-hole
+| Rail MGW7C/STW7C 40mm | 1 | [Aliexpress](https://www.aliexpress.com/item/1005001499370117.html) | Z2 (medium) preload, 5mm edge-to-hole
 | Magnet B842SH  | 1 | (NA) [Kj Magnetics](https://www.kjmagnetics.com/proddetail.asp?prod=B842SH) <br>(EU) [Replimat](https://www.replimat.eu/metalboop-magnet-b842sh/rt10176) | To secure magnet, RTV Silicone is needed. Make sure you have it or get high quality one.
 | M3 10mm spacer  | 2 | [Aliexpress](https://www.aliexpress.com/item/1005003018651855.html) | Only needed if using 3-part version of MetalBoop
 | M3 10mm standoff  | 2 | [Aliexpress](https://www.aliexpress.com/item/1005005462128073.html) | Only needed if using 2-part version of MetalBoop (can also use plastic standoffs)
@@ -52,7 +52,7 @@ _* As reported by one beta tester, if using Dragon hotend then silicone sock nee
 | BHCS M3x6 | 2 |  | Only needed if using 2-part version of MetalBoop
 | FHCS M3x5 | 8 |  | Make sure these are 5mm; 6mm version is too long!
 | SHCS M3x4 | 1 |  | Used to mount top part of MGW7 rail
-| SHCS M3x5 | 1 |  | Used to mount bottom part of MGW7 rail
+| SHCS M3x5 | 1/3/5 |  | Used to mount bottom part of MGW7 rail; get extra 2pcs if not using sensorless homing; get extra 2pcs if using DragonBurner V8
 | Slim version of OptoTAP PCB (5V only) | 1 | (EU) [Lab4450](https://lab4450.com/product/voron-tap-probe/) (select OptoTap v1.3 5v with Omron SX-EE398)  <br>(NA) [Fabreeko](https://www.fabreeko.com/products/voron-tap-pcb?_pos=1&amp;amp;amp;amp;amp;amp;_psq=Tap&amp;amp;amp;amp;amp;amp;_ss=e&amp;amp;amp;amp;amp;amp;_v=1.0&amp;amp;amp;amp;amp;amp;variant=44462578368767) (select Voron TAP 5v) | Although either PCB type can be mounted, the larger version of the Tap PCB may interfere with either the extruder or extruder stepper.
 
 _* Current latest available version is beta RC1 which is not rigorously tested by many users yet. Use at your own risk!_
@@ -91,11 +91,11 @@ Slide MGW7C cart off rail onto plastic jig that was supplied with the rail and s
 
 How to mount optotap sensor PCB depends whether you have 2-part or 3-part MetalBoop. **Note if using OPB666N sensor, you may have to add 0.5mm shim in between standoffs/spacers and PCB, as OPB666N is a bit larger and would not fit otherwise.**
 
-##### 2-part MetalBoop
+#### 2-part MetalBoop
 
 ![MetalBoopSensor2Part](./imgs/assembly/sensor_2part.png) 
 
-##### 3-part MetalBoop
+#### 3-part MetalBoop
 
 ![MetalBoopSensor3Part](./imgs/assembly/sensor_3part.png)
 
@@ -109,13 +109,13 @@ It is recommended to test MetalBoop before you continue with mounting toolhead. 
 
 #### F) Misc
 
-[If you are not using sensorless homing but rather endstop switches, please check out this page.](https://github.com/PrintersForAnts/MetalBoop/tree/main/STL)
+[If you are not using sensorless homing but rather endstop switches, please check out this page.](https://github.com/PrintersForAnts/MetalBoop/tree/main/STL#xy-homing-using-endstops)
 
 
 ## 6. FAQ
 
 1. When is it going to be available?
-  * MetalBoop has entered public beta RC1 phase - **you can expect CAD files to be available in full any day now**. Note that this is public beta and there may be some small issues here and there. We are doing our best to list all found issues [here](/).
+  * MetalBoop has entered public beta RC1 phase - **you can expect CAD files to be available in full any day now**. Note that this is public beta and there may be some small issues here and there. We are doing our best to list all found issues [here](#7-beta-issueschangelog).
         
 2. What else besides the BOM do I need?
   * Unfortunately, from the start, we expect that for the first few weeks or months, you will also have to get parts manufactured on your own. There are online services such as [JLCPCB](https://jlcpcb.com/) or [PCBWAY](https://www.pcbway.com/) which can make the parts. After some time, we hope vendors will pick up the design and make kits with already manufactured metal parts so you won’t have to do anything but buy a kit and assemble it.
@@ -145,7 +145,11 @@ This configuration is called 3-part MetalBoop and is cheaper for CNC production.
   * Get in contact with me or any other member of the team and ask for help. While also providing help to you, we will do our best to also update currently developed manuals on Github under [Assembly topic](#5-assembly). You can get in contact with us by opening issue in this GitHub repository or contact us in [Discord #CNC_boop channel](https://discord.com/channels/825469421346226226/1222971771444006996).
 
 
-## 7. Credits
+## 7. Beta issues/changelog
+- Dragon hotend: small part of silicone sock needs to be cut for MetalBoop to fully fit
+
+
+## 8. Credits
 - [Kizime123](https://github.com/Kizime123) for CAD design
 - [djeZo888](https://github.com/djeZo888) for sponsoring, GitHub page and initial testings
 
