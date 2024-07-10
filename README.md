@@ -2,7 +2,7 @@
 
 ![MetalBoopRender](./imgs/MetalBoop_FinalRender_Both.png) 
 
-**Note: MetalBoop has been released as beta RC1 - first beta version. There are also five beta testers that are currently receiving, assembling and testing kits for free and will shortly get more information from them regarding beta RC1 - so far, the results are great and comparison charts vs plastic Boop will be posted soon. MetalBoop is an open source project - [CAD files are available for the public](./CAD). This site is under construction - new content is added daily.**
+**Note: MetalBoop has been released as beta RC1 - first beta version. There are also five beta testers that are currently receiving, assembling and testing kits for free and will shortly get more information from them regarding beta RC1 - so far, the results are great and comparison charts vs plastic Boop will be posted soon. MetalBoop is an open source project - CAD files are available for the public [here](./CAD).**
 
 
 ## 1. Introduction
@@ -68,7 +68,7 @@ _* As reported by one beta tester, if using Dragon hotend then silicone sock nee
 ## 5. Assembly
 
 > [!NOTE]
-> Please, contact us if assembly manuals are unclear, so we can improve them. Thank you!
+> Please, [contact us](#8-contact) if assembly manuals are unclear, so we can improve them. Thank you!
 
 > [!TIP]
 > You can always check out [CAD design file](./CAD) to see how parts fit together.
@@ -126,10 +126,10 @@ It is recommended to test MetalBoop before you continue with mounting toolhead. 
 ## 6. FAQ
 
 1. <ins>When is it going to be available?</ins>
-  * MetalBoop has entered public beta RC1 phase. Note that this is public beta and there may be some small issues here and there. We are doing our best to list all found issues [here](#7-beta-issueschangelog).
+  * MetalBoop has entered public beta RC1 phase. Note that this is public beta and there may be some small issues here and there. We are doing our best to list all found issues [here](#7-beta-issueschangelog). If you find any issue, error with CAD design or error in GitHub page, please [contact us and report it](#8-contact).
         
 2. <ins>What else besides the BOM do I need?</ins>
-  * Unfortunately, from the start, we expect that for the first few weeks or months, you will also have to get parts manufactured on your own. CNC design files are available [here](./CAD/CNC). There are online services such as [JLCPCB](https://jlcpcb.com/) or [PCBWAY](https://www.pcbway.com/) which can make the parts. After some time, we hope vendors will pick up the design and make kits with already manufactured metal parts so you won’t have to do anything but buy a kit and assemble it.
+  * Unfortunately, from the start, we expect that for the first few weeks or months, you will also have to get parts manufactured on your own. CNC design files are available [here](./CAD/CNC). There are online services such as [JLCPCB](https://jlcpcb.com/) or [PCBWAY](https://www.pcbway.com/) which can make the parts. After some time, we hope vendors will pick up the design and make kits with already manufactured metal parts so you won’t have to do anything but purchase a kit and assemble it.
 
 3. <ins>What is the difference between 2-part and 3-part MetalBoop?</ins>
   * Boop usually consists of 3 main metal parts; those are:
@@ -153,14 +153,20 @@ This configuration is called 3-part MetalBoop and is cheaper for CNC production.
   * MetalBoop is completely open source, released under GPLv3 license. You can freely use designs for your commercial purposes free of charge.
 
 7. <ins>I am stuck with assembly/I do not understand assembly process. What should I do?</ins>
-  * Get in contact with me or any other member of the team and ask for help. While also providing help to you, we will do our best to also update currently developed manuals on Github under [Assembly topic](#5-assembly). You can get in contact with us by opening issue in this GitHub repository or contact us in [Discord #CNC_boop channel](https://discord.com/channels/825469421346226226/1222971771444006996).
+  * Get in [contact with us](#8-contact) and ask for help. While also providing help to you, we will do our best to also update currently developed manuals on Github under [Assembly topic](#5-assembly).
 
 
 ## 7. Beta issues/changelog
 - Dragon hotend: small part of silicone sock needs to be cut for MetalBoop to fully fit.
 
 
-## 8. Credits
+## 8. Contact
+You can get in contact with us by:
+- Submitting [GitHub issue](https://github.com/PrintersForAnts/MetalBoop/issues) or
+- [Discord #CNC_boop channel](https://discord.com/channels/825469421346226226/1222971771444006996).
+
+
+## 9. Credits
 - [Kizime123](https://github.com/Kizime123) for CAD design and
 - [djeZo888](https://github.com/djeZo888) for sponsoring, GitHub page and initial testings.
 
