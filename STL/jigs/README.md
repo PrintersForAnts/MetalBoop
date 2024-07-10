@@ -28,7 +28,7 @@ After 24h unscrew M3 screws and remove the jig. Verify that the magnet is proper
 
 Use two printed samples of this jig (clamps) when securing MGW7 rail to the base plate. MGW7 must be in fully vertical position for MetalBoop to work properly. If it isn't when M3 screws that attach rail to the base plate are tightened, then loose these M3 screws and realign rail using printed clamps and tighten M3 screws again.
 
-_Use SHCS M3x4mm to secure upper part of the rail and SHCS M3x5mm to secure lower part of the rail._
+Use **SHCS M3x4mm** to secure upper part of the rail and **SHCS M3x5mm** to secure lower part of the rail. Shorter screw is used because there is X rail cart under base plate and 5mm long screw would not fit.
 
 ![Rail-Jig](../../imgs/assembly/rail_jig.png)
 
