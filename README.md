@@ -54,7 +54,7 @@
 
 Same as plastic [Boop](https://github.com/PrintersForAnts/Boop). Any Voron0 type toolhead compatible with front plate (eg. Mini StealthBurner). 100% compatible with [Dragon Burner v8 - DBv8](https://github.com/chirpy2605/voron/tree/main/V0/Dragon_Burner). All Hotends* and all Extruders are supported.
 
-_* As reported by one beta tester, if using Dragon hotend then silicone sock needs to be cut a bit for everything to fit together properly._
+_* As reported by one beta tester, if using Dragon hotend then silicone sock needs to be cut a bit for everything to fit together properly. We have plans to fix this issue with next beta release._
 
 
 ## 4. BOM
@@ -175,7 +175,9 @@ This configuration is called 3-part MetalBoop and is cheaper for CNC production.
 
 
 ## 7. Beta issues/changelog
-- Dragon hotend: small part of silicone sock needs to be cut for MetalBoop to fully fit.
+> [!NOTE]
+> Marked issues will be fixed in following version.
+- [x] Dragon hotend: small part of silicone sock needs to be cut for MetalBoop to fully fit.
 
 
 ## 8. Contact
