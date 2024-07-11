@@ -23,13 +23,17 @@ After 24h unscrew M3 screws and remove the jig. Verify that the magnet is proper
 
 ---
 
-### Assembly of MGW7 rail
+### Assembly of MGW7 linear rail
 
 [**jig_rail_x2.stl**](./jig_rail_x2.stl) needs to be printed two times. These two parts are used to help secure MGW7 linear rail to the Base plate in fully vertical position - working as clamps. Print in PLA or PETG with at least Voron recommended slicer settings or better (more walls/infill). Clamps must be very rigid. If clamps are either too small to fit or too loose to fit firmly, scale them in slicer by few 0.1% up or down and reprint. Do that until you have clamps that fit firmly, but not too tight. You know that you have good clamps when rail doesn't move in any direction being clamped to the Base plate with only these two printed clamps (no screws).
+
+![Rail-Jig](../../imgs/assembly/rail_jig.png)
 
 Use two printed samples of this jig (clamps) when securing MGW7 rail to the Base plate. MGW7 linear rail must be in fully vertical position for MetalBoop to work properly. If it isn't when M3 screws that attach rail to the base plate are tightened, then loose these M3 screws and realign rail using printed clamps and tighten M3 screws again.
 
 Use **SHCS M3x4mm** to secure upper part of the linear rail and **SHCS M3x5mm** to secure lower part of the linear rail. Shorter screw is used because there is X linear rail cart under base plate and 5mm long screw would not fit.
 
-![Rail-Jig](../../imgs/assembly/rail_jig.png)
+![Rail-Screws](../../imgs/assembly/rail_screws.png)
+
+
 
