@@ -74,7 +74,7 @@ _* As reported by one beta tester, if using Dragon hotend then silicone sock nee
 | FHCS M3x5 | 8 |  | Make sure these are 5mm; 6mm version is too long!
 | SHCS M3x4 | 1 |  | Used to mount top part of MGW7 rail
 | SHCS M3x5 | 1/3/5 |  | Used to mount bottom part of MGW7 rail; get extra 2pcs if not using sensorless homing; get extra 2pcs if using DragonBurner V8
-| Slim version of OptoTAP PCB (5V only) | 1 | (EU) [Lab4450](https://lab4450.com/product/voron-tap-probe/) (select OptoTap v1.3 5v with Omron SX-EE398)  <br>(NA) [Fabreeko](https://www.fabreeko.com/products/voron-tap-pcb?_pos=1&amp;amp;amp;amp;amp;amp;_psq=Tap&amp;amp;amp;amp;amp;amp;_ss=e&amp;amp;amp;amp;amp;amp;_v=1.0&amp;amp;amp;amp;amp;amp;variant=44462578368767) (select Voron TAP 5v) | Although either PCB type can be mounted, the larger version of the OptoTap PCB may interfere with either the extruder or extruder stepper.
+| Slim version of OptoTAP PCB (5V only) | 1 | (EU) [Replimat](https://www.replimat.eu/optotap-v1.3-opb666n/rt10181)<br> (EU) [Lab4450](https://lab4450.com/product/voron-tap-probe/) (select OptoTap v1.3 5v with Omron SX-EE398)<br>(NA) [Fabreeko](https://www.fabreeko.com/products/voron-tap-pcb?_pos=1&amp;amp;amp;amp;amp;amp;_psq=Tap&amp;amp;amp;amp;amp;amp;_ss=e&amp;amp;amp;amp;amp;amp;_v=1.0&amp;amp;amp;amp;amp;amp;variant=44462578368767) (select Voron TAP 5v) | Although either PCB type can be mounted, the larger version of the OptoTap PCB may interfere with either the extruder or extruder stepper.
 
 > [!IMPORTANT]
 > Current latest available version is beta RC1 which is not rigorously tested by many users yet. Purchase, assemble and use at your own risk!
